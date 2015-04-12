@@ -1,0 +1,10 @@
+A simple implementation of a ray-tracer in Matlab using its object-oriented support. For this ray-tracer I want to support:
+- Point light sources (done)
+- Planes as geometric primitive (done)
+- Texture mapping (done)
+- Anti-aliasing (done)
+- Phong's light model (done)
+- Added spherical camera model (done)
+- Quadtree for the acceleration of the ray-tracing (TODO)
+- Movement of the camera (done)
+- Movement of the scene or objects in the scene (TODO)
